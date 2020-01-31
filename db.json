@@ -1,10 +1,27 @@
 {
-  "title": "Title of content 1",
-  "url": "https://storage.googleapis.com/davewise/IMG_0004.JPG",
-  "contentItems": [
-    {
-      "title": "Item 1 of Content 1 Title",
-      "text": "Item 1 of Content 1  text asdfasdf asdfsdfas adfsdfasdf adfasdfas"
-    }
-  ]
+  "1": {
+    "id": 1,
+    "name": "Mount Fuji",
+    "url": "https://api.fluttercrashcourse.com/assets/images/fuji@3x.jpg"
+  },
+  "2": {
+    "id": 2,
+    "name": "Arashiyama Bamboo Grove",
+    "url": "https://api.fluttercrashcourse.com/assets/images/arashiyama@3x.jpg"
+  },
+  "3": {
+    "id": 3,
+    "name": "Kiyomizu-dera",
+    "url": "https://api.fluttercrashcourse.com/assets/images/kiyomizu-dera@3x.png"
+  },
+  "4": {
+    "id": 4,
+    "name": "Kinkaku-ji",
+    "url": "https://api.fluttercrashcourse.com/assets/images/kinkaku-ji@3x.jpg"
+  },
+  "5": {
+    "id": 5,
+    "name": "Odaiba",
+    "url": "https://api.fluttercrashcourse.com/assets/images/odaiba@3x.jpg"
+  }
 }
